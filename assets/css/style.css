@@ -54,3 +54,11 @@ footer,
 .push {
     height: 50px;
 }
+
+.form {
+    width: 960px;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #ddd;
+    color: #000;
+    padding-left: 10px
